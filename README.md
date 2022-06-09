@@ -1,2 +1,2 @@
 # dotfiles
-dotfile
+* starship.toml
