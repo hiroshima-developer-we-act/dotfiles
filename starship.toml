@@ -1,0 +1,47 @@
+add_newline = true
+command_timeout = 10000
+
+[character]
+success_symbol = "[>](bold green)"
+error_symbol = "[x](bold red)"
+
+[username]
+style_user = "white bold"
+style_root = "black bold"
+format = "user: [$user]($style) "
+disabled = false
+
+[directory]
+#ディレクトリ表示
+truncation_length = 100
+truncate_to_repo = false
+
+[git_status]
+#Gitのステータス表示用アイコン
+conflicted = "💥"
+ahead = "🏎💨"
+behind = "😰"
+diverged = "😵"
+untracked = "🌚"
+stashed = "📦"
+modified = "📝"
+staged = '🔦'
+renamed = "🏷"
+deleted = "🗑"
+
+[[battery.display]]
+#バッテリーを表示するタイミング、表示する際の文字のスタイル
+threshold = 100
+style = "bold blue"
+
+[time]
+#時間の表示をオンにして12時間表示に
+disabled = false
+use_12hr = true
+
+[aws]
+format = 'on [$symbol($profile )(\($region\) )]($style)'
+style = "bold blue"
+
+[aws.region_aliases]
+ap-northeast-1 = "jp"
