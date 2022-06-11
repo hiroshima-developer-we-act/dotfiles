@@ -1,8 +1,10 @@
 # dotfiles
 <pre>
 .
-├── .zshrc          zshの設定
-├── .hyper.js       hyperの設定ファイル
-├──　starship.toml  Starshipの設定ファイル
+├── .commit_template    コミット テンプレート
+├── .gitignore          git ignore
+├── .hyper.js           hyperの設定ファイル
+├── .zshrc              zshの設定
+├── starship.toml       Starshipの設定ファイル
 └── README.md
 </pre>
