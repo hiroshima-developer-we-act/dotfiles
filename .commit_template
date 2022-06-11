@@ -1,18 +1,21 @@
 
 # ==================== Emojis ====================
-# 🎉  :tada: 初めてのコミット（Initial Commit）
-# 🔖  :bookmark: バージョンタグ（Version Tag）
-# ✨  :sparkles: 新機能（New Feature）
-# 🐛  :bug: バグ修正（Bagfix）
-# ♻️  :recycle: リファクタリング(Refactoring)
-# 📚  :books: ドキュメント（Documentation）
-# 🎨  :art: デザインUI/UX(Accessibility)
-# 🐎  :horse: パフォーマンス（Performance）
-# 🔧  :wrench: ツール（Tooling）
-# 🚨  :rotating_light: テスト（Tests）
-# 💩  :hankey: 非推奨追加（Deprecation）
-# 🗑️  :wastebasket: 削除（Removal）
-# 🚧  :construction: WIP(Work In Progress)
+# ✨ :sparkles:         新機能 > Introduce new features.
+# ⚡️ :zap:              機能追加 > Improve performance.
+# 🐛 :bug:              バス修正 > Fix a bug.
+# 🩹 :adhesive_bandage: 軽微な修正 > Simple fix for a non-critical issue.
+# 🚧 :construction:     作業中 > Work in progress.
+# 🎉 :tada:             最初のコミット > Begin a project
+# 🎨 :art:              コードフォーマット > Improve structure / format of the code.
+# ♻️ :recycle:          リファクタ > Refactor code.
+# 📝 :memo:             文章の修正 > Add or update documentation.
+# 🚑️ :ambulance:        緊急性の高いバグ > Critical hotfix.
+# 🚀 :rocket:           デプロイ > Deploy stuff.
+# 🔖 :bookmark:         リリースバージョン > Release / Version tags.
+# ⏪️ :rewind:            変更を戻す > Revert changes.
+# 🚚 :truck:            ファイル移動、名称変更 > Move or rename resources (e.g.: files, paths, routes).
+# 🔧 :wrench:           設定ファイル更新 > Add or update configuration files.
+# 💄 :lipstick:         UI更新 > Add or update the UI and style files
 
 
 # ==================== Format ====================
